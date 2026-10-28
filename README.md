@@ -1,6 +1,6 @@
-# Aniya Mehra | Portfolio
+# Aniya Mehra 
  
-Personal portfolio of **Aniya Mehra**, Software Development Engineer at WebCraft IT, Indore, India.
+Software Development Engineer at WebCraft IT, Indore, India.
  
 **Live site:** https://aaniyamehra.github.io/
  
